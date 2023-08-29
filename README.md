@@ -1,2 +1,9 @@
 # Python-AI23
-Python Course For AI23, ITHS
+
+## My Subcaption
+
+Python Course For **AI23**, ITHS
+
+- Course
+- Python
+- AI
