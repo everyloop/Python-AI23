@@ -35,7 +35,9 @@
 - Learn [variables][variables] to store data
 - Learn [input][input] to let user input to the program
 - Learn [while statement][while_video] to repeat code with given condition
+- Learn [for statement][for_video] to efficiently repeat code
 
+[for_video]: https://www.youtube.com/watch?v=OnDr4J2UXSA
 [while_video]: https://www.youtube.com/watch?v=6TEGxJXLAWQ
 [variables]: https://www.youtube.com/watch?v=Z1Yd7upQsXY&t=470s
 [input]: https://www.youtube.com/watch?v=4OX49nLNPEE
