@@ -3,7 +3,6 @@
 [Back to main page :house:](https://github.com/everyloop/Python-AI23)
 
 ## Video guides :video_camera:
-- Learn [for statement][for_video] to efficiently repeat code
 - Learn [lists][lists_video] for organizing data
 - Learn [list comprehension][list_comp_vid] for efficient and clean code
 - Learn [matplotlib][matplot_video] to plot graphs
@@ -14,7 +13,6 @@
 [string_vid]: https://www.youtube.com/watch?v=k9TUPpGqYTo
 [f_string_vid]: https://www.youtube.com/watch?v=nghuHvKLhJA
 [matplot_video]: https://www.youtube.com/watch?v=nzKy9GY12yo
-[for_video]: https://www.youtube.com/watch?v=OnDr4J2UXSA
 [lists_video]: https://www.youtube.com/watch?v=ohCDWZgNIU0&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=14
 [list_comp_vid]: https://www.youtube.com/watch?v=AhSvKGTh28Q&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=22
 
