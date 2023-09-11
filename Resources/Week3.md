@@ -14,7 +14,7 @@
 
 ## Theory :book:
 
-- [file handling - real python][w3files]
+- [file handling][w3files]
 - [read json files][jsonread]
 - [dictionary - w3schools][w3dict]
 - [sets - w3schools][w3sets]
