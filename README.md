@@ -14,9 +14,11 @@ For complete course schedule [click here][time_sched]
 | :------: | -------------------------------------------------------------------------------------------- |
 | [35][w1] | installation, git, pipenv, variables, I/O, if, while, for, lab 1                             |
 | [36][w2] | lists, indexing, slicing, matplotlib, string methods, functions                              |
+| [37][w3] | dictionarys, set, typles, file-handling, csv, json, algorithms, problem solving              |
 
 [w1]: https://github.com/everyloop/Python-AI23/blob/main/Resources/Week1.md
 [w2]: https://github.com/everyloop/Python-AI23/blob/main/Resources/Week2.md
+[w3]: https://github.com/everyloop/Python-AI23/blob/main/Resources/Week3.md
 
 ## Resources
 
