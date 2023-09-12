@@ -1,0 +1,18 @@
+{
+    "firstname": "Fredrik",
+    "lastname": "Johansson",
+    "age": 42,
+    "languages": [
+        "Python",
+        "C#",
+        "Javascript"
+    ],
+    "contactinfo": {
+        "phone": "0702345678",
+        "email": [
+            "fredrik@everyloop.com",
+            "fredrik@gmail.com",
+            "fredrik.johansson@hotmail.com"
+        ]
+    }
+}
