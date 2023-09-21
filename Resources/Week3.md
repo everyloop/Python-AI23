@@ -17,13 +17,11 @@
 - [file handling][w3files]
 - [read json files][jsonread]
 - [dictionary - w3schools][w3dict]
-- [sets - w3schools][w3sets]
 - [tuples - w3schools][w3tup]
 - [algorithms - Khan Academy][algos]
 
 [jsonread]: https://www.freecodecamp.org/news/loading-a-json-file-in-python-how-to-read-and-parse-json/
 [w3dict]: https://www.w3schools.com/python/python_dictionaries.asp
-[w3sets]: https://www.w3schools.com/python/python_sets.asp
 [w3tup]: https://www.w3schools.com/python/python_tuples.asp
 [w3files]: https://www.w3schools.com/python/python_file_handling.asp
 [w3except]: https://www.w3schools.com/python/python_try_except.asp
