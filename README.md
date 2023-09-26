@@ -16,11 +16,13 @@ For complete course schedule [click here][time_sched]
 | [36][w2] | lists, indexing, slicing, matplotlib, string methods, functions                              |
 | [37][w3] | dictionaries, set, file-handling, csv, json, algorithms, problem solving                     |
 | [38][w4] | .py-files, debug, error-handling, try-except, tuples, numpy, labb 2 deadline                 |
+| [39][w5] | OOP: class, instanc, method, attribute, property, dunder methods, operator overloading       |
 
 [w1]: https://github.com/everyloop/Python-AI23/blob/main/Resources/Week1.md
 [w2]: https://github.com/everyloop/Python-AI23/blob/main/Resources/Week2.md
 [w3]: https://github.com/everyloop/Python-AI23/blob/main/Resources/Week3.md
 [w4]: https://github.com/everyloop/Python-AI23/blob/main/Resources/Week4.md
+[w5]: https://github.com/everyloop/Python-AI23/blob/main/Resources/Week5.md
 
 ## Resources
 
