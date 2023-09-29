@@ -14,6 +14,7 @@
 - [OOP - w3schools][w3OOP]
 - [property][prop]
 - [operator overloading](https://www.geeksforgeeks.org/operator-overloading-in-python/)
+- [Python3 reference: Special method names (dunder methods)](https://docs.python.org/3/reference/datamodel.html#special-method-names)
 
 [w3OOP]: https://www.w3schools.com/python/python_classes.asp
 [prop]: https://www.programiz.com/python-programming/property
